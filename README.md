@@ -16,7 +16,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
@@ -51,11 +51,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/alishbannoor2/alishbannoor2/output/snake.svg" alt="Snake animation" />
 
 ###
