@@ -1,3 +1,4 @@
+![logo](https://github.com/alishbannoor2/alishbannoor2/blob/035cd2f9aceac987c1bbc41000ba617f549b3767/banner.png)
 <h1 align="center">It's Alishba Noor!</h1>
 
 ###
