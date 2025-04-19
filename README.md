@@ -108,8 +108,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alishbannoor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=cobalt&hide_border=true&order=2&custom_title=My%20top%20languages" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=alishbannoor&locale=en&mode=weekly&theme=synthwave&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alishbannoor2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=cobalt&hide_border=true&order=2&custom_title=My%20top%20languages" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=alishbannoor2&locale=en&mode=weekly&theme=synthwave&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
